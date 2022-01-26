@@ -1,0 +1,31 @@
+@font-face {
+    font-family: dseg;
+    src: url(./fonts/DSEG7Modern-BoldItalic.woff2);
+}
+
+body {
+    background-color: black;
+}
+
+p#label {
+    color: white;
+    font-size: 5rem;
+    margin-bottom: 0px;
+}
+
+h1#time {
+    color: red;
+    text-align: center;
+    font-size: 8rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: dseg;
+}
+
+p#unit {
+    color: white;
+    font-size: 5rem;
+    margin-left: 90%;
+    margin-top: 0px;
+}
+
