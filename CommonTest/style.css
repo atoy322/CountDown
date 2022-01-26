@@ -11,11 +11,13 @@ p#label {
     color: white;
     font-size: 5rem;
     margin-bottom: 0px;
+    text-shadow: 2px 2px 5px white;
 }
 
 h1#time {
     color: red;
     text-align: center;
+    text-shadow: 3px 3px 10px #d86b41;
     font-size: 8rem;
     margin-top: 0%;
     margin-bottom: 0%;
@@ -27,5 +29,6 @@ p#unit {
     font-size: 5rem;
     margin-left: 90%;
     margin-top: 0px;
+    text-shadow: 2px 2px 5px white;
 }
 
