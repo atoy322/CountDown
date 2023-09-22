@@ -1,5 +1,5 @@
 var label = "共通テスト1日目";
-var target_date = new Date(2023, 1-1, 14, 0, 0, 0, 0);
+var target_date = new Date(2024, 1-1, 13, 0, 0, 0, 0);
 
 
 function onload() {
