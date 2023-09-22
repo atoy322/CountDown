@@ -1,5 +1,5 @@
-var label = "2023年";
-var target_date = new Date(2023, 1-1, 1, 0, 0, 0, 0);
+var label = "2024年";
+var target_date = new Date(2024, 1-1, 1, 0, 0, 0, 0);
 
 
 function onload() {
